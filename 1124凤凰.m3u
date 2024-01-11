@@ -1,0 +1,374 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE blank
+
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.26:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.17:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰电影
+http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.19:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.27:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.22:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文 576
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.18:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.20:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.32:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+https://live.goodiptv.club/api/sxg.php?id=test1_4000
+#EXTINF:-1 group-title="未分类",凤凰中文 576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+https://db.xxray.cc/sxg.php?id=test1_4000
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228527/1.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文台
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文台
+http://113.117.74.12:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文.备用
+http://www.terrykang.cn:5678/sxg.php?id=test1_4000
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.js.chinamobile.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文 8M1080
+http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰飞
+https://alimov2.a.kwimgs.com/upic/2022/06/23/06/BMjAyMjA2MjMwNjU3MzFfOTU2MzA3MDg4Xzc3NDAwMzEyMzQxXzJfMw==_b_Bc4c9bf6711b2d6c2f7ea0d360dcd95ea.mp4?clientCacheKey=3xjs7bvgmjgaxy2_b.mp4&tt=b&di=24710b6c&bp=10000
+#EXTINF:-1 group-title="未分类",凤凰花开
+https://txmov2.a.kwimgs.com/upic/2022/06/18/07/BMjAyMjA2MTgwNzIyNTdfOTU2MzA3MDg4Xzc3MDEzMzE0MjU5XzJfMw==_b_B2a29bdcf567e9966a530df3a4ca17b32.mp4?clientCacheKey=3xngqgm33b67e2i_b.mp4&tt=b&di=24710b6c&bp=10000
+#EXTINF:-1 group-title="未分类",凤凰中文高清
+http://159.75.85.63:5681/sxg.php?id=test1_4000
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3949322656_1360725434/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8?icpid=4&RTS=1663234329&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.35:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1245367087_-983708624/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8?icpid=4&RTS=1664455691&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰飞.
+https://txmov2.a.kwimgs.com/upic/2022/08/10/07/BMjAyMjA4MTAwNzIwNTVfOTU2MzA3MDg4XzgxNDM3MDI4MDIyXzJfMw==_b_Bdf440f3ac06360bf07f335476f5f3506.mp4?clientCacheKey=3x5ygijyhtgefmi_b.mp4&tt=b&di=24710b75&bp=10000
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=fhzw_1500
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://php.17186.eu.org/phtv/fhzw.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1245367087_-983708624/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8?icpid=4&amp%3BRTS=1664455691&amp%3Bfrom=40&amp%3Bpopid=40&amp%3Bhms_devid=2292&amp%3Bprioritypopid=40&amp%3Bvqe=3
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3949322656_1360725434/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8?icpid=4&amp%3BRTS=1663234329&amp%3Bfrom=40&amp%3Bpopid=40&amp%3Bhms_devid=2292&amp%3Bprioritypopid=40&amp%3Bvqe=3
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://ott.mobaibox.com/TVOD/1/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?/TVOD/.smil
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?icpid=3&amp%3BRTS=1668336354&amp%3Bfrom=40&amp%3Bpopid=40&amp%3Bhms_devid=2292&amp%3Bprioritypopid=40&amp%3Bvqe=3
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?icpid=3&amp%3BRTS=1674369674&amp%3Bfrom=40&amp%3Bpopid=40&amp%3Bhms_devid=2292&amp%3Bprioritypopid=40&amp%3Bvqe=3
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.js.chinamobile.com/PLTV/3/224/3221228527/index.m3u8%24IPV6
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3%24IPV6
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3%24IPV6
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://live.goodiptv.club/api/sxg.php?id=test1_4000
+#EXTINF:-1 group-title="未分类",凤凰中文台
+http://113.117.74.13:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰
+http://115.149.139.141:10001/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+https://php.61073736.repl.co/sxg.php?id=test1_4000
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=fhzw_1500
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.31:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://www.pr666.site:4040/udp/239.255.30.50:8231
+#EXTINF:-1 group-title="未分类",凤凰电影
+http://218.202.220.2:5000/nn_live.m3u8?id=NEWSASIA
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&amp%3BRTS=1668336354&amp%3Bfrom=40&amp%3Bpopid=40&amp%3Bhms_devid=2292&amp%3Bprioritypopid=40&amp%3Bvqe=3
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&amp%3BRTS=1674369674&amp%3Bfrom=40&amp%3Bpopid=40&amp%3Bhms_devid=2292&amp%3Bprioritypopid=40&amp%3Bvqe=3
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/88888888/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/%E8%82%A5%E7%BE%8A/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8%24IPV6
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://www.pr666.site:4040/udp/239.255.30.50:8231%24%E7%94%98%E8%82%832
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.23:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.28:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.38:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://php.17186.eu.org:80/phtv/fhzw.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://113.117.74.13:8081/hls/37/index.m3u8#%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3&
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3&
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8%24785%2A576
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/PLTV/1/224/3221231022/1.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://113.117.74.17:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://113.117.74.18:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.17:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.18:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.20:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.26:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.27:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边 [1920x1080]
+http://113.117.74.20:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://113.117.74.21:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://113.117.74.26:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视深圳旁边台
+http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.19:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.21:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯 576
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视深圳旁边台
+http://gxdl-lhs.8866.org:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视中文台
+http://113.117.74.21:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://113.117.74.32:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.32:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+https://live.goodiptv.club/api/sxg.php?id=test2_4000
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯 576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+https://db.xxray.cc/sxg.php?id=test2_4000
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://[2409:8087:2001:20:2800:0:df6e:eb1c]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯台
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221231003/1.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/PLTV/1/224/3221231022/1.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视深圳旁边台
+http://113.117.74.19:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视
+https://17186.eu.org/php/phtv/fhzw.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+https://17186.eu.org/php/phtv/fhzx.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+https://17186.eu.org/php/phtv/fhhk.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯台
+http://113.117.74.12:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/4/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视深圳旁边台
+http://lcx-olt.8866.org:8181/tsfile/live/1070_1.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯.备用
+http://www.terrykang.cn:5678/sxg.php?id=test2_4000
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.js.chinamobile.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.22:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://113.117.74.22:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://113.117.74.27:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3&
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8CCTV1
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯高清
+http://159.75.85.63:5681/sxg.php?id=test2_4000
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.35:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://113.117.74.35:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://113.117.74.12:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视[1920*1080]
+http://ott.mobaibox.com/PLTV/1/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://php.17186.eu.org/phtv/fhhk.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?/TVOD/.smil
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?icpid=3&amp%3BRTS=1668336154&amp%3Bfrom=40&amp%3Bpopid=40&amp%3Bhms_devid=2293&amp%3Bprioritypopid=40&amp%3Bvqe=3
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8?icpid=3&amp%3BRTS=1674373416&amp%3Bfrom=40&amp%3Bpopid=40&amp%3Bhms_devid=2293&amp%3Bprioritypopid=40&amp%3Bvqe=3
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视中文台
+http://113.117.74.29:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视资讯台
+http://113.117.74.29:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视深圳旁边台
+http://113.117.74.29:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://php.17186.eu.org/phtv/fhxg.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.js.chinamobile.com/PLTV/3/224/3221228524/index.m3u8%24IPV6
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3%24IPV6
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3%24IPV6
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com%24IPV6
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://live.goodiptv.club/api/sxg.php?id=test2_4000
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯台
+http://113.117.74.13:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边合
+http://113.117.74.13:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+https://php.61073736.repl.co/sxg.php?id=test2_4000
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://lcx-olt.8866.org:8181/tsfile/live/1069_1.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://udnhls.skilldns.com:80/fhzx.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&amp%3BRTS=1668336154&amp%3Bfrom=40&amp%3Bpopid=40&amp%3Bhms_devid=2293&amp%3Bprioritypopid=40&amp%3Bvqe=3
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/88888888/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&amp%3BRTS=1674373416&amp%3Bfrom=40&amp%3Bpopid=40&amp%3Bhms_devid=2293&amp%3Bprioritypopid=40&amp%3Bvqe=3
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/%E8%82%A5%E7%BE%8A/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8%24IPV6
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://e2.woc.iiiya.cn:8888/udp/239.61.5.213:1025%24%E7%A6%8F%E5%BB%BA
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a2092354%24GAT1
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.23:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.28:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://113.117.74.38:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰深圳旁边
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/88888888/224/3221228530/1.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://php.17186.eu.org:80/phtv/fhzx.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3&
+#EXTINF:-1 group-title="深圳旁边",凤凰卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/5/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/TVOD/3/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8%241047%2A576
+#EXTINF:-1 group-title="深圳旁边",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/wh7f454c46tw3984282630_1427246842/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="深圳",凤凰深圳旁边
+http://113.117.74.31:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳",凤凰深圳旁边
+http://113.117.74.23:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳",凤凰深圳旁边
+http://113.117.74.28:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="深圳",凤凰深圳旁边
+http://113.117.74.38:8081/hls/38/index.m3u8
