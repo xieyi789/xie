@@ -24,6 +24,24 @@
  "script": "https://raw.githubusercontent.com/xieyi789/xie/main/shappck.js"
   },
         {
+  "id": "ziwi",
+  "name": "ZIWI狗粮",
+  "keys": ["ziwick"],
+  "settings": [{
+                    "id": "ziwick",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 50,
+                    "desc": "ziwick"
+                }],
+ "author": "@xieyi",
+ "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/shappck.js",
+ "icons": ["https://s2.loli.net/2023/05/22/9Hpbfc2ojlFsi3y.jpg","https://s2.loli.net/2023/05/22/9Hpbfc2ojlFsi3y.jpg"],
+ "script": "https://raw.githubusercontent.com/xieyi789/xie/main/shappck.js"
+  },
+        {
   "id": "yx",
   "name": "鄞响",
   "keys": ["yxck"],
