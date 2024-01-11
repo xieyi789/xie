@@ -6,6 +6,42 @@
     "repo": "https://github.com/xieyi789/xie",
     "apps": [
            {
+  "id": "nfsq",
+  "name": "农夫山泉",
+  "keys": ["nfsqckCK"],
+  "settings": [{
+                    "id": "nfsqckCK",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 50,
+                    "desc": "nfsqckCK"
+                }],
+ "author": "@xieyi",
+ "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/shappck.js",
+ "icons": ["https://s2.loli.net/2023/05/22/9Hpbfc2ojlFsi3y.jpg","https://s2.loli.net/2023/05/22/9Hpbfc2ojlFsi3y.jpg"],
+ "script": "https://raw.githubusercontent.com/xieyi789/xie/main/shappck.js"
+  },
+        {
+  "id": "yx",
+  "name": "鄞响",
+  "keys": ["yxck"],
+  "settings": [{
+                    "id": "yxck",
+                    "name": "CK 列表",
+                    "val": "",
+                    "type": "textarea",
+                    "autoGrow": true,
+                    "rows": 50,
+                    "desc": "yxck"
+                }],
+ "author": "@xieyi",
+ "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/shappck.js",
+ "icons": ["https://s2.loli.net/2023/05/22/9Hpbfc2ojlFsi3y.jpg","https://s2.loli.net/2023/05/22/9Hpbfc2ojlFsi3y.jpg"],
+ "script": "https://raw.githubusercontent.com/xieyi789/xie/main/shappck.js"
+  },
+        {
   "id": "zgrb",
   "name": "中国人保",
   "keys": ["rbck"],
