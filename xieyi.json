@@ -1,29 +1,34 @@
-
 {
-    "id": "xie.app.sub",  //自己写
-    "name": "xie自用脚本订阅",    //订阅的名字
-    "author": "xie",              //作者名字
-    "icon": "https://s2.loli.net/2022/09/26/leyBXMwIPs98Ouz.jpg",   //订阅图标的地址
-    "repo": "https://github.com/xieyi789/xy",                   //订阅的json放的文件夹
+    "id": "xie.app.sub",
+    "name": "xie自用 脚本订阅",
+    "author": "levi",
+    "icon": "https://s2.loli.net/2022/09/26/leyBXMwIPs98Ouz.jpg",
+    "repo": "https://github.com/xieyi789/xie",
     "apps": [
-    //第一个开始
-        {
-            "id": "zgrb",              //ck的id，一般用拼音
-            "name": "中国人保",         //名字
-            "keys": ["rbck"],    //脚本里的变量名字
-            "settings": [{
-                    "id": "rbck", //脚本里的变量名字
-                    "name": "CK 列表",//不动
-                    "val": "",
-                    "type": "textarea",//不懂
-                    "autoGrow": true,
-                    "rows": 8,
-                    "desc": "rbck"//脚本里的变量名字
-                       }],
-            "author": "@xieyi",//作者
-            "repo": "https://raw.githubusercontent.com/levi19831005/js/main/kfx.js",//脚本地址
-            "icons": ["https://s2.loli.net/2022/09/27/DecvEWImChFQVGY.png","https://s2.loli.net/2022/09/27/DecvEWImChFQVGY.png"],//变量图标地址，写两遍一样的
-            "script": "https://raw.githubusercontent.com/levi19831005/js/main/kfx.js"//脚本地址
-             } 
+ {
+    "id": "zgrb",
+    "name": "中国人保",
+    "keys": ["rbck"],
+    "settings": [{
+                                                        "id": "rbck",
+                                                        "name": "CK 列表",
+                                                        "val": "",
+                                                        "type": "rbck",
+                                                        "autoGrow": true,
+                                                        "rows": 8,
+                                                        "desc": "hrjck"
+                                                    }],
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/rbck.js",
+    "icons": ["https://s2.loli.net/2024/01/10/XMHkofPc1VGgb3K.jpg","https://s2.loli.net/2024/01/10/XMHkofPc1VGgb3K.jpg"],
+    "script": "https://raw.githubusercontent.com/levi19831005/js/main/rbck.js"
+    }
+        
+        
+        
+        
+        
+        
+        
           ]
   }
