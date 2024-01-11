@@ -5,7 +5,7 @@
     "icon": "https://s2.loli.net/2022/09/26/leyBXMwIPs98Ouz.jpg",
     "repo": "https://github.com/xieyi789/xie",
     "apps": [
-{
+           {
   "id": "zgrb",
   "name": "中国人保",
   "keys": ["rbck"],
@@ -19,9 +19,9 @@
                     "desc": "rbck"
                 }],
  "author": "@xieyi",
- "repo": "https://raw.githubusercontent.com/levi19831005/js/main/shappck.js",
+ "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/shappck.js",
  "icons": ["https://s2.loli.net/2023/05/22/9Hpbfc2ojlFsi3y.jpg","https://s2.loli.net/2023/05/22/9Hpbfc2ojlFsi3y.jpg"],
- "script": "https://raw.githubusercontent.com/levi19831005/js/main/shappck.js"
+ "script": "https://raw.githubusercontent.com/xieyi789/xie/main/shappck.js"
   },
         {
   "id": "shapp",
@@ -36,10 +36,10 @@
                     "rows": 50,
                     "desc": "shappck"
                 }],
- "author": "@hhx",
- "repo": "https://raw.githubusercontent.com/levi19831005/js/main/shappck.js",
+ "author": "@xieyi",
+ "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/shappck.js",
  "icons": ["https://s2.loli.net/2023/05/22/9Hpbfc2ojlFsi3y.jpg","https://s2.loli.net/2023/05/22/9Hpbfc2ojlFsi3y.jpg"],
- "script": "https://raw.githubusercontent.com/levi19831005/js/main/shappck.js"
+ "script": "https://raw.githubusercontent.com/xieyi789/xie/main/shappck.js"
   },
 {
   "id": "bjxd",
@@ -54,10 +54,10 @@
                             "rows": 20,
                             "desc": "bjxdck"
                         }],
-  "author": "@hhx",
-  "repo": "https://raw.githubusercontent.com/levi19831005/js/main/bjxdck.js",
+  "author": "@xieyi",
+  "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/bjxdck.js",
   "icons": ["https://s2.loli.net/2023/02/08/zPFtgGqNI6BYa3c.jpg","https://s2.loli.net/2023/02/08/zPFtgGqNI6BYa3c.jpg"],
-  "script": "https://raw.githubusercontent.com/levi19831005/js/main/bjxdck.js"
+  "script": "https://raw.githubusercontent.com/xieyi789/xie/main/bjxdck.js"
    }  ,                 
 {
   "id": "ymxk",
@@ -72,10 +72,10 @@
                             "rows": 20,
                             "desc": "ymxkck"
                                 }],
- "author": "@hhx",
- "repo": "https://raw.githubusercontent.com/levi19831005/js/main/ymxkck.js",
+ "author": "@xieyi",
+ "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/ymxkck.js",
  "icons": ["https://s2.loli.net/2023/05/22/yq5OlL1XxaBHFDf.jpg","https://s2.loli.net/2023/05/22/yq5OlL1XxaBHFDf.jpg"],
- "script": "https://raw.githubusercontent.com/levi19831005/js/main/ymxkck.js"
+ "script": "https://raw.githubusercontent.com/xieyi789/xie/main/ymxkck.js"
  },  
 {
   "id": "bjqc",
@@ -90,10 +90,10 @@
                         "rows": 40,
                         "desc": "bjqcck"
                                         }],
-  "author": "@hhx",
-  "repo": "https://raw.githubusercontent.com/levi19831005/js/main/bjqcck.js",
+  "author": "@xieyi",
+  "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/bjqcck.js",
   "icons": ["https://s2.loli.net/2023/07/09/XCNMRg7m3kBGQU4.jpg","https://s2.loli.net/2023/07/09/XCNMRg7m3kBGQU4.jpg"],
-  "script": "https://raw.githubusercontent.com/levi19831005/js/main/bjqcck.js"
+  "script": "https://raw.githubusercontent.com/xieyi789/xie/main/bjqcck.js"
    } ,  
 {
   "id": "gqftbz",
@@ -108,10 +108,10 @@
                         "rows": 40,
                         "desc": "gqftbzck"
                                         }],
-  "author": "@hhx",
-  "repo": "https://raw.githubusercontent.com/levi19831005/js/main/gqftbzck.js",
+  "author": "@xieyi",
+  "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/gqftbzck.js",
   "icons": ["https://s2.loli.net/2023/07/09/YgMd3ztSb9WF8Pw.jpg","https://s2.loli.net/2023/07/09/YgMd3ztSb9WF8Pw.jpg"],
-  "script": "https://raw.githubusercontent.com/levi19831005/js/main/gqftbzck.js"
+  "script": "https://raw.githubusercontent.com/xieyi789/xie/main/gqftbzck.js"
    },  
 {
   "id": "hqzl",
@@ -126,10 +126,10 @@
                         "rows": 40,
                         "desc": "hqzlck"
                                         }],
-  "author": "@hhx",
-  "repo": "https://raw.githubusercontent.com/levi19831005/js/main/hqzlck.js",
+  "author": "@xieyi",
+  "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/hqzlck.js",
   "icons": ["https://s2.loli.net/2023/07/09/Ss6zanMXKjtJxUD.jpg","https://s2.loli.net/2023/07/09/Ss6zanMXKjtJxUD.jpg"],
-  "script": "https://raw.githubusercontent.com/levi19831005/js/main/hqzlck.js"
+  "script": "https://raw.githubusercontent.com/xieyi789/xie/main/hqzlck.js"
    },
 {
     "id": "yyq",
@@ -144,10 +144,10 @@
                 "rows": 20,
                 "desc": "yyqck"
                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/yyqck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/yyqck.js",
     "icons": ["https://s2.loli.net/2023/05/22/KlQyaq4NJ1zriMd.jpg","https://s2.loli.net/2023/05/22/KlQyaq4NJ1zriMd.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/yyqck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/yyqck.js"
      }   ,
 {
     "id": "wmrs",
@@ -162,10 +162,10 @@
                                     "rows": 8,
                                     "desc": "wmrsck"
                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/wmrsappck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/wmrsappck.js",
     "icons": ["https://s2.loli.net/2022/11/09/4JIfYcACUdNVeK8.jpg","https://s2.loli.net/2022/11/09/4JIfYcACUdNVeK8.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/wmrsappck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/wmrsappck.js"
     } ,
 {
     "id": "maoren",
@@ -180,10 +180,10 @@
                                     "rows": 8,
                                     "desc": "mrck"
                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/mrck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/mrck.js",
     "icons": ["https://s2.loli.net/2022/11/14/2BTkGgrSnoq6aEs.jpg","https://s2.loli.net/2022/11/14/2BTkGgrSnoq6aEs.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/mrck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/mrck.js"
      }   ,
 {
     "id": "elm",
@@ -198,10 +198,10 @@
                                     "rows": 8,
                                     "desc": "elmallck"
                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/elmall.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/elmall.js",
     "icons": ["https://s2.loli.net/2022/11/24/Glw5uTNJtcXsknU.jpg","https://s2.loli.net/2022/11/24/Glw5uTNJtcXsknU.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/elmall.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/elmall.js"
     }  ,
 {
     "id": "jsb",
@@ -216,10 +216,10 @@
                                     "rows": 8,
                                     "desc": "jsbck"
                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/jsbwxck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/jsbwxck.js",
     "icons": ["https://s2.loli.net/2022/11/27/8BnS7iovDhHpNXE.jpg","https://s2.loli.net/2022/11/27/8BnS7iovDhHpNXE.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/jsbwxck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/jsbwxck.js"
      }  ,
 {
     "id": "zxzwn",
@@ -234,10 +234,10 @@
                                     "rows": 8,
                                     "desc": "zxzwnwxck"
                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/zxzwnwxck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/zxzwnwxck.js",
     "icons": ["https://s2.loli.net/2022/12/02/pWmaifJhbLkrAxZ.jpg","https://s2.loli.net/2022/12/02/pWmaifJhbLkrAxZ.jpg"],
-     "script": "https://raw.githubusercontent.com/levi19831005/js/main/zxzwnwxck.js"
+     "script": "https://raw.githubusercontent.com/xieyi789/xie/main/zxzwnwxck.js"
      }  ,
 {
     "id": "xhh",
@@ -252,10 +252,10 @@
                                     "rows": 100,
                                     "desc": "xhhck"
                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/xhhck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/xhhck.js",
     "icons": ["https://s2.loli.net/2023/06/11/6HVUnW5Bla19iKp.jpg","https://s2.loli.net/2023/06/11/6HVUnW5Bla19iKp.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/xhhck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/xhhck.js"
      }   ,
 {
     "id": "yili",
@@ -270,10 +270,10 @@
                                     "rows": 10,
                                     "desc": "yilick"
                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/yilick.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/yilick.js",
     "icons": ["https://s2.loli.net/2023/01/20/GKrOS1kgRwznt6o.jpg","https://s2.loli.net/2023/01/20/GKrOS1kgRwznt6o.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/yilick.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/yilick.js"
     }  ,
 {
     "id": "hxek",
@@ -288,10 +288,10 @@
                                     "rows": 20,
                                     "desc": "hxekck"
                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/hxekck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/hxekck.js",
     "icons": ["https://s2.loli.net/2023/02/25/Av7pCKQLrkfJxdM.jpg","https://s2.loli.net/2023/02/25/Av7pCKQLrkfJxdM.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/hxekck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/hxekck.js"
     }  ,
 {
     "id": "sgs",
@@ -306,10 +306,10 @@
                                     "rows": 20,
                                     "desc": "sgsck"
                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/sgsck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/sgsck.js",
     "icons": ["https://s2.loli.net/2023/05/28/7JxPmfsTdkYKXbe.jpg","https://s2.loli.net/2023/05/28/7JxPmfsTdkYKXbe.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/sgsck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/sgsck.js"
     },
 {
     "id": "hrt",
@@ -324,10 +324,10 @@
                                         "rows": 20,
                                         "desc": "hrtck"
                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/hrtck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/hrtck.js",
     "icons": ["https://s2.loli.net/2023/07/04/tqdFE86g3sDpQxT.jpg","https://s2.loli.net/2023/07/04/tqdFE86g3sDpQxT.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/hrtck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/hrtck.js"
     },
 {
     "id": "ydwx",
@@ -342,10 +342,10 @@
                                                 "rows": 20,
                                                 "desc": "ydwxck"
                                             }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/ydwxck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/ydwxck.js",
     "icons": ["https://s2.loli.net/2023/07/04/PX7gSOtzuRqx96l.jpg","https://s2.loli.net/2023/07/04/PX7gSOtzuRqx96l.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/ydwxck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/ydwxck.js"
     },
 {
     "id": "qcs",
@@ -360,10 +360,10 @@
                                                     "rows": 20,
                                                     "desc": "qcsck"
                                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/qcsck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/qcsck.js",
     "icons": ["https://s2.loli.net/2023/07/04/s4T5J8YOZgvhtej.jpg","https://s2.loli.net/2023/07/04/s4T5J8YOZgvhtej.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/qcsck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/qcsck.js"
     },
  {
     "id": "qcslm",
@@ -378,10 +378,10 @@
                                                     "rows": 20,
                                                     "desc": "qcslmck"
                                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/qcslmck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/qcslmck.js",
     "icons": ["https://s2.loli.net/2023/07/16/wUenJuBH9Nh4Czy.jpg","https://s2.loli.net/2023/07/16/wUenJuBH9Nh4Czy.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/qcslmck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/qcslmck.js"
     },
  {
     "id": "qcshc",
@@ -396,10 +396,10 @@
                                                     "rows": 20,
                                                     "desc": "qcshcck"
                                                 }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/qcshcck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/qcshcck.js",
     "icons": ["https://s2.loli.net/2023/07/16/wUenJuBH9Nh4Czy.jpg","https://s2.loli.net/2023/07/16/wUenJuBH9Nh4Czy.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/qcshcck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/qcshcck.js"
     },       
  {
     "id": "szw",
@@ -414,10 +414,10 @@
                                                         "rows": 20,
                                                         "desc": "szwck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/szwck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/szwck.js",
     "icons": ["https://s2.loli.net/2023/07/05/e9Rw4i5GnrkXsD7.jpg","https://s2.loli.net/2023/07/05/e9Rw4i5GnrkXsD7.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/szwck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/szwck.js"
     },
  {
     "id": "llj",
@@ -432,10 +432,10 @@
                                                         "rows": 20,
                                                         "desc": "lljck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/lljck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/lljck.js",
     "icons": ["https://s2.loli.net/2023/07/05/GkV46e5uAzOnLjE.jpg","https://s2.loli.net/2023/07/05/GkV46e5uAzOnLjE.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/lljck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/lljck.js"
     },
  {
     "id": "miss",
@@ -450,10 +450,10 @@
                                                         "rows": 20,
                                                         "desc": "missck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/missck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/missck.js",
     "icons": ["https://s2.loli.net/2023/07/08/kaTX8GN9F7436gO.jpg","https://s2.loli.net/2023/07/08/kaTX8GN9F7436gO.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/missck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/missck.js"
     },
  {
     "id": "lbxbb",
@@ -468,10 +468,10 @@
                                                         "rows": 20,
                                                         "desc": "lbxbbck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/lbxbbck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/lbxbbck.js",
     "icons": ["https://s2.loli.net/2023/07/08/yzpxrKC98mYRIEv.jpg","https://s2.loli.net/2023/07/08/yzpxrKC98mYRIEv.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/lbxbbck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/lbxbbck.js"
     },
  {
     "id": "cll",
@@ -486,10 +486,10 @@
                                                         "rows": 20,
                                                         "desc": "cllck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/cllck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/cllck.js",
     "icons": ["https://s2.loli.net/2023/07/08/Y5HPE28OL7sMB1J.jpg","https://s2.loli.net/2023/07/08/Y5HPE28OL7sMB1J.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/cllck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/cllck.js"
     },
  {
     "id": "ybjk",
@@ -504,10 +504,10 @@
                                                         "rows": 20,
                                                         "desc": "ybjkck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/ybjkck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/ybjkck.js",
     "icons": ["https://s2.loli.net/2023/07/09/PMpt4oaYcxw18fy.jpg","https://s2.loli.net/2023/07/09/PMpt4oaYcxw18fy.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/ybjkck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/ybjkck.js"
     },
  {
     "id": "wdq",
@@ -522,10 +522,10 @@
                                                         "rows": 20,
                                                         "desc": "wdqck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/wdqck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/wdqck.js",
     "icons": ["https://s2.loli.net/2023/07/09/b7qVRWzZ5Yl3I8h.jpg","https://s2.loli.net/2023/07/09/b7qVRWzZ5Yl3I8h.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/wdqck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/wdqck.js"
     },
  {
     "id": "flp",
@@ -540,10 +540,10 @@
                                                         "rows": 20,
                                                         "desc": "flpck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/flpck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/flpck.js",
     "icons": ["https://s2.loli.net/2023/07/13/Gd7se1JBLTI8uFM.jpg","https://s2.loli.net/2023/07/13/Gd7se1JBLTI8uFM.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/flpck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/flpck.js"
     },
  {
     "id": "lbhbb",
@@ -558,10 +558,10 @@
                                                         "rows": 20,
                                                         "desc": "lbhbbck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/lbhbbck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/lbhbbck.js",
     "icons": ["https://s2.loli.net/2023/07/16/vIOYnNZd6MlPxKp.jpg","https://s2.loli.net/2023/07/16/vIOYnNZd6MlPxKp.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/lbhbbck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/lbhbbck.js"
     },
  {
     "id": "lbhy",
@@ -576,10 +576,10 @@
                                                         "rows": 20,
                                                         "desc": "lbhyck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/lbhyck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/lbhyck.js",
     "icons": ["https://s2.loli.net/2023/07/16/Hzexc4yAtPpYIM8.jpg","https://s2.loli.net/2023/07/16/Hzexc4yAtPpYIM8.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/lbhyck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/lbhyck.js"
     },
  {
     "id": "rdxk",
@@ -594,10 +594,10 @@
                                                         "rows": 20,
                                                         "desc": "rdxkck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/rdxkck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/rdxkck.js",
     "icons": ["https://s2.loli.net/2023/07/17/OPKQi46TNuwpqt3.jpg","https://s2.loli.net/2023/07/17/OPKQi46TNuwpqt3.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/rdxkck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/rdxkck.js"
     },
  {
     "id": "xhhy",
@@ -612,10 +612,10 @@
                                                         "rows": 20,
                                                         "desc": "xhhyck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/xhhyck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/xhhyck.js",
     "icons": ["https://s2.loli.net/2023/07/19/Y8kphOLrlFayPiN.jpg","https://s2.loli.net/2023/07/19/Y8kphOLrlFayPiN.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/xhhyck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/xhhyck.js"
     },
  {
     "id": "tyqh",
@@ -630,10 +630,10 @@
                                                         "rows": 20,
                                                         "desc": "tyqhck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/qhck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/qhck.js",
     "icons": ["https://s2.loli.net/2023/07/21/cuprBxfaeigtwsS.jpg","https://s2.loli.net/2023/07/21/cuprBxfaeigtwsS.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/qhck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/qhck.js"
     },
  {
     "id": "jcy",
@@ -648,10 +648,10 @@
                                                         "rows": 20,
                                                         "desc": "jcyck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/jcyck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/jcyck.js",
     "icons": ["https://s2.loli.net/2023/07/21/zvBgDrqdtCmU7p8.jpg","https://s2.loli.net/2023/07/21/zvBgDrqdtCmU7p8.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/jcyck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/jcyck.js"
     },
  {
     "id": "zbs",
@@ -666,10 +666,10 @@
                                                         "rows": 20,
                                                         "desc": "zbsck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/zbsck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/zbsck.js",
     "icons": ["https://s2.loli.net/2023/08/29/8pVCEw7bjhGoO1u.jpg","https://s2.loli.net/2023/08/29/8pVCEw7bjhGoO1u.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/zbsck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/zbsck.js"
     },
  {
     "id": "fy",
@@ -684,10 +684,10 @@
                                                         "rows": 20,
                                                         "desc": "fyck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/fyck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/fyck.js",
     "icons": ["https://s2.loli.net/2023/08/29/zOf5XhBL8MIE9wx.jpg","https://s2.loli.net/2023/08/29/zOf5XhBL8MIE9wx.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/fyck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/fyck.js"
     },
  {
     "id": "xx",
@@ -702,10 +702,10 @@
                                                         "rows": 20,
                                                         "desc": "xxck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/xxck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/xxck.js",
     "icons": ["https://s2.loli.net/2023/09/06/a2pIYoiHXcDCtbs.jpg","https://s2.loli.net/2023/09/06/a2pIYoiHXcDCtbs.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/xxck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/xxck.js"
     },
  {
     "id": "dls",
@@ -720,10 +720,10 @@
                                                         "rows": 10,
                                                         "desc": "dlsck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/dlsck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/dlsck.js",
     "icons": ["https://s2.loli.net/2023/11/27/NOrXvc9BYteA8EU.jpg","https://s2.loli.net/2023/11/27/NOrXvc9BYteA8EU.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/dlsck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/dlsck.js"
     },
  {
     "id": "hrj",
@@ -738,10 +738,10 @@
                                                         "rows": 8,
                                                         "desc": "hrjck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/hrjck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/hrjck.js",
     "icons": ["https://s2.loli.net/2023/12/21/eDBC38KHgVhf4Op.jpg","https://s2.loli.net/2023/12/21/eDBC38KHgVhf4Op.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/hrjck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/hrjck.js"
     },
  {
     "id": "nfsq",
@@ -756,10 +756,10 @@
                                                         "rows": 8,
                                                         "desc": "hrjck"
                                                     }],
-    "author": "@hhx",
-    "repo": "https://raw.githubusercontent.com/levi19831005/js/main/nfsqck.js",
+    "author": "@xieyi",
+    "repo": "https://raw.githubusercontent.com/xieyi789/xie/main/nfsqck.js",
     "icons": ["https://s2.loli.net/2024/01/10/XMHkofPc1VGgb3K.jpg","https://s2.loli.net/2024/01/10/XMHkofPc1VGgb3K.jpg"],
-    "script": "https://raw.githubusercontent.com/levi19831005/js/main/nfsqck.js"
+    "script": "https://raw.githubusercontent.com/xieyi789/xie/main/nfsqck.js"
     }
         
         
